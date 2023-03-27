@@ -1,0 +1,38 @@
+body{
+    background-image: url('iconanddb/bg.jpg');
+    text-align: center;
+    text-decoration: none;
+}
+.contaimer-one{
+    display: inline-block;
+    background-color: rgb(42, 25, 25);
+    width: 30%;
+    height: 350px;
+    border-radius: 10px;
+    border: 0px;
+    color: #fff;
+    margin-top: 100px;
+}
+.logo-first{
+    width: 35px;
+    position: absolute;
+    margin-top: 38px;
+    margin-left: -110px;
+}
+input{
+    width:80%;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+button{
+    width: 80%;
+    height: 30px;
+    background-color: #4CAF50;
+    border-radius: 5px;
+    font-size: larger;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
